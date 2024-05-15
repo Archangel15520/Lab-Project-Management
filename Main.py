@@ -35,3 +35,9 @@ def generate_random_email():
 # Пример использования функции
 random_email = generate_random_email()
 print(random_email)
+
+"""
+Вывод компилятора:
+
+dbuwpu@pxibocmul.tnt
+"""
