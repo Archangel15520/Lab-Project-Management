@@ -7,6 +7,7 @@
 git init
 ### 2. Переход в указанный каталог
 cd Project_Management
+
 ![](https://github.com/Archangel15520/Lab-Project-Management/blob/main/screenshot/1.JPG)
 
 ### Заранее создаю и подготавливаю файлы ".md" для git bash.
@@ -58,11 +59,26 @@ git push -u origin main
 
 ## Задача №2: Написать функцию генерации случайного email адреса
 
-Требуется написать функцию `generate_random_email()`, которая генерирует случайный email адрес в формате <name>@<domain>.<local>. 
-Функция использует модули random и string для генерации случайных символов.
+## Требуется написать функцию `generate_random_email()`, которая генерирует случайный email адрес в формате <name>@<domain>.<local>. 
+### Функция использует модули random и string для генерации случайных символов.
+### Код:
+
+![](https://github.com/Archangel15520/Lab-Project-Management/blob/main/screenshot/6.JPG)
+
+### Вывод компилятора:
+
+![](https://github.com/Archangel15520/Lab-Project-Management/blob/main/screenshot/7.JPG)
+
 
 ### Задача №3: Вывод виде таблицы ФИО и даты рождения всех студентов, отсортированных по дате рождения
 
-Необходимо реализовать функцию `print_students_sorted_by_dob()`, которая выводит список студентов в виде таблицы, отсортированной по дате рождения.
+### Необходимо реализовать функцию `print_students_sorted_by_dob()`, которая выводит список студентов в виде таблицы, отсортированной по дате рождения.
+### Код:
 
-![](https://github.com/Archangel15520/Lab-Project-Management/blob/main/screenshot/1.JPG)
+![](https://github.com/Archangel15520/Lab-Project-Management/blob/main/screenshot/8.JPG)
+
+### Вывод компилятора:
+
+![](https://github.com/Archangel15520/Lab-Project-Management/blob/main/screenshot/9.JPG)
+
+
