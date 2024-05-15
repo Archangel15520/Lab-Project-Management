@@ -10,10 +10,12 @@
    Функция `generate_random_email()` генерирует случайный email адрес в формате '<name>@<domain>.<local>'.
   
    Вывод компилятора:
+   
 ![](https://github.com/Archangel15520/Lab-Project-Management/blob/main/screenshot/7.JPG)
 
-3. **Вывод списка студентов в виде таблицы**:
+4. **Вывод списка студентов в виде таблицы**:
    Функция `print_students_sorted_by_dob()` выводит список студентов в виде таблицы, отсортированной по дате рождения.
 
     Вывод компилятора:
+   
 ![](https://github.com/Archangel15520/Lab-Project-Management/blob/main/screenshot/9.JPG)
